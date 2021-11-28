@@ -1,2 +1,2 @@
-# Machine_learning
+# Machine learning
 ## It contains some classical machine learning algorithms
